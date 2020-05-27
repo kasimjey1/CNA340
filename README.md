@@ -1,19 +1,19 @@
 # Project Title
-
-One Paragraph of project description goes here.
+This will demonstrate a leap year and what is not leap year.
 
 ## Getting Started
+You need to install pycharm in order to run the code.
 
 These instructions will [do something] on your local machine for [development/experimentation/demo]
 
 ### Prerequisites
+I Used pychart and create a fill that will save your zybook codes.
 
 [Project] requires [software and version] to run, with [additional packages, libaries, or mods]. The commands below will [upgrade OS and install the prerequisites, or do something else]
 
 ```
-sudo apt update
-sudo apt upgrade
-sudo apt install package1 package2
+This link is where you can download pycharm.
+https://www.jetbrains.com/pycharm/download/#section=windows
 ```
 
 ## Running
@@ -30,4 +30,4 @@ python cna_demo.py test.txt
 ```
 
 ## Thanks
-Provide thank yous and attributions here. If someone helped you, you looked at another repository, or another article, provide it here.
+ProI watched the zoom videos that helped me a little bit and then I watched a youtube video on how to create the repo.
