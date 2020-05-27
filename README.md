@@ -30,4 +30,4 @@ python cna_demo.py test.txt
 ```
 
 ## Thanks
-ProI watched the zoom videos that helped me a little bit and then I watched a youtube video on how to create the repo.
+I watched the zoom videos that helped me a little bit and then I watched a youtube video on how to create the repo.
